@@ -1,1 +1,0 @@
-this directory contains code for converting iitm to ljspeech formatted data for TTS training

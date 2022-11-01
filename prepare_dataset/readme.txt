@@ -1,0 +1,1 @@
+this directory contains code for converting iitm to ljspeech formatted data for TTS training and also english to bangla or code mixed document translation pipeline for later use of bangla tts inference.
