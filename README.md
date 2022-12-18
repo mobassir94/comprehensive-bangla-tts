@@ -1,34 +1,34 @@
 # comprehensive-bangla-tts
 
 
-|Books|Total_Hadiths|is_e2b_translated?|playlist_link| 
+|Books|Total_Hadiths|is_e2b_translated?|Bangla_Audiobook/playlist_link| 
 |:---:|:---:|:---:|:---:|
 |সহিহ বুখারী|7275|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNIlU0TjaQaAUAWr9DuZedv| 
-|সহিহ মুসলিম|7500|No| 
-|সুনানে আন-নাসায়ী|5758|No|
-|সুনানে আবু দাউদ|5274|No|
-|জামে' আত-তিরমিজি|3956|No|
-|সুনানে ইবনে মাজাহ|4341|No|
+|সহিহ মুসলিম|7500|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOmpGmZKy38RvOYwAWKssDu| 
+|সুনানে আন-নাসায়ী|5758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNoGSguLsp3ePTR4WOUhZvT|
+|সুনানে আবু দাউদ|5274|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNZ2QPues46JtcRrwK4QF0I|
+|জামে' আত-তিরমিজি|3956|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMb31g0oeJLxmYlufZrYC0X|
+|সুনানে ইবনে মাজাহ|4341|No||
 ||||
-|মুয়াত্তা ইমাম মালিক|1832|No|
-|রিয়াদুস সলেহিন|1905|No|
-|বুলুগুল মারাম|1568|No|
-|আল লু'লু ওয়াল মারজান|1906|No|
-|হাদিস সম্ভার|2013|No|
-|সিলসিলা সহিহা|60|No|
-|জাল জয়িফ হাদিস সিরিজ|102|No|
-|মিশকাতুল মাসাবিহ|2758|No|
-|৪০ হাদিস|42|No|
-|আদাবুল মুফরাদ|1336|No|
-|জুজ'উল রাফায়েল ইয়াদাইন|56|No|
-|সহিহ হাদিসে কুদসি|163|No|
-|১০০ সুসাব্যস্ত হাদিস|101|No|
-|মিশকাতে জয়িফ হাদিস |106|No|
-|শামায়েলে তিরমিযি|320|No|
-|সহিহ তারগিব ওয়াত তাহরিব|200|No|
-|সহিহ ফাযায়েলে আমল |151|No|
-|ঊপদেশ|234|No|
-|রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ|36|No|
+|মুয়াত্তা ইমাম মালিক|1832|No||
+|রিয়াদুস সলেহিন|1905|No||
+|বুলুগুল মারাম|1568|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMx11DlgONaLej3IeyVTXig|
+|আল লু'লু ওয়াল মারজান|1906|No||
+|হাদিস সম্ভার|2013|No||
+|সিলসিলা সহিহা|60|No||
+|জাল জয়িফ হাদিস সিরিজ|102|No||
+|মিশকাতুল মাসাবিহ|2758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNnnPeAOIhxBWcmlrvblKxb|
+|৪০ হাদিস|42|No||
+|আদাবুল মুফরাদ|1336|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNQfGS2d0DQHRX6_TYlnO1m|
+|জুজ'উল রাফায়েল ইয়াদাইন|56|No||
+|সহিহ হাদিসে কুদসি|163|No||
+|১০০ সুসাব্যস্ত হাদিস|101|No||
+|মিশকাতে জয়িফ হাদিস |106|No||
+|শামায়েলে তিরমিযি|320|No||
+|সহিহ তারগিব ওয়াত তাহরিব|200|No||
+|সহিহ ফাযায়েলে আমল |151|No||
+|ঊপদেশ|234|No||
+|রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ|36|No||
 ||||
 |মুসনাদে আহমাদ|||
 |জুজ'উল কিরাত|||
