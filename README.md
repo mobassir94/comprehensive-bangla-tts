@@ -16,14 +16,14 @@
 |আল লু'লু ওয়াল মারজান|1906|No||
 |হাদিস সম্ভার|2013|No||
 |সিলসিলা সহিহা|60|No||
-|জাল জয়িফ হাদিস সিরিজ|102|No||
+|জাল জয়িফ হাদিস সিরিজ|102|No|https://www.youtube.com/watch?v=R1CU0AAiB7Y&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7|
 |মিশকাতুল মাসাবিহ|2758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNnnPeAOIhxBWcmlrvblKxb|
-|৪০ হাদিস|42|No||
+|৪০ হাদিস|42|No|https://www.youtube.com/watch?v=ROMcvpPpvoE&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=2|
 |আদাবুল মুফরাদ|1336|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNQfGS2d0DQHRX6_TYlnO1m|
 |জুজ'উল রাফায়েল ইয়াদাইন|56|No||
 |সহিহ হাদিসে কুদসি|163|No||
-|১০০ সুসাব্যস্ত হাদিস|101|No||
-|মিশকাতে জয়িফ হাদিস |106|No||
+|১০০ সুসাব্যস্ত হাদিস|101|No|https://www.youtube.com/watch?v=ZBs-ZyI3brw&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=3|
+|মিশকাতে জয়িফ হাদিস |106|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7|
 |শামায়েলে তিরমিযি|320|No||
 |সহিহ তারগিব ওয়াত তাহরিব|200|No||
 |সহিহ ফাযায়েলে আমল |151|No||
