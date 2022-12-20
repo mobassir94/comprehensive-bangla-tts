@@ -1,7 +1,7 @@
 # comprehensive-bangla-tts
 
 
-|Books|Total_Hadiths|is_e2b_translated?|Bangla_Audiobook/playlist_link| 
+|Books|Total_Hadiths/Surahs'|is_e2b_nmt?|Bangla_Audiobook/playlist_link| 
 |:---:|:---:|:---:|:---:|
 |সহিহ বুখারী|7275|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNIlU0TjaQaAUAWr9DuZedv| 
 |সহিহ মুসলিম|7500|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOmpGmZKy38RvOYwAWKssDu| 
@@ -27,7 +27,7 @@
 |মিশকাতে জয়িফ হাদিস |106|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7|
 |শামায়েলে তিরমিযি|320|No||
 |সহিহ তারগিব ওয়াত তাহরিব|200|No||
-|সহিহ ফাযায়েলে আমল |151|No||
+|সহিহ ফাযায়েলে আমল |151|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMMUpTUsJykeFyWzttWKZyw|
 |ঊপদেশ|234|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPzHcoR1gDHv0fm-6je0GvM|
 |রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ|36|No|https://www.youtube.com/watch?v=MJi1V7e5ai8&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=10|
 ||||
