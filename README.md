@@ -12,10 +12,10 @@
 ||||
 ||||
 |মুয়াত্তা ইমাম মালিক|1832|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPn_8D5bn86OTQ9WFRocGGj|
-|রিয়াদুস সলেহিন|1905|No||
+|রিয়াদুস সলেহিন|1905|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvON9GuH8N28YbJiJV0c-abc|
 |বুলুগুল মারাম|1568|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMx11DlgONaLej3IeyVTXig|
 |আল লু'লু ওয়াল মারজান|1906|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOELySX1jhuO2tlzpmnmrvq|
-|হাদিস সম্ভার|2013|No||
+|হাদিস সম্ভার|2013|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPCCit-aKpSjls4KgabZOhb|
 |সিলসিলা সহিহা|60|No|https://www.youtube.com/watch?v=geVWWA8RX3Q&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=11|
 |জাল জয়িফ হাদিস সিরিজ|102|No|https://www.youtube.com/watch?v=R1CU0AAiB7Y&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7|
 |মিশকাতুল মাসাবিহ|2758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNnnPeAOIhxBWcmlrvblKxb|
