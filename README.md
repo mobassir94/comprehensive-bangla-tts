@@ -26,7 +26,7 @@
 |১০০ সুসাব্যস্ত হাদিস|101|No|https://www.youtube.com/watch?v=ZBs-ZyI3brw&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=3|
 |মিশকাতে জয়িফ হাদিস |106|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7|
 |শামায়েলে তিরমিযি|320|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNduizMiAvAVWRUu0UEx2Bw|
-|সহিহ তারগিব ওয়াত তাহরিব|200|No||
+|সহিহ তারগিব ওয়াত তাহরিব|200|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPI5tg5cDoWBCWLQjXcSlBg|
 |সহিহ ফাযায়েলে আমল |151|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMMUpTUsJykeFyWzttWKZyw|
 |ঊপদেশ|234|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPzHcoR1gDHv0fm-6je0GvM|
 |রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ|36|No|https://www.youtube.com/watch?v=MJi1V7e5ai8&list=PLsHVxzxNumvOsZibj3sZRJxt1uZH_k6n7&index=10|
