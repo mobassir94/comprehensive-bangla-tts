@@ -3,7 +3,7 @@
 
 |Books|Total_Hadiths/Surahs'|is_e2b_nmt?|Bangla_Audiobook/playlist_link| 
 |:---:|:---:|:---:|:---:|
-|সহিহ বুখারী|7275|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNIlU0TjaQaAUAWr9DuZedv| 
+|সহিহ বুখারী|7563|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNIlU0TjaQaAUAWr9DuZedv| 
 |সহিহ মুসলিম|7500|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOmpGmZKy38RvOYwAWKssDu| 
 |সুনানে আন-নাসায়ী|5758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNoGSguLsp3ePTR4WOUhZvT|
 |সুনানে আবু দাউদ|5274|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNZ2QPues46JtcRrwK4QF0I|
@@ -11,7 +11,7 @@
 |সুনানে ইবনে মাজাহ|4341|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMqBsYZ1U5Z3uCg1hUF6pA_|
 ||||
 ||||
-|মুয়াত্তা ইমাম মালিক|1832|No||
+|মুয়াত্তা ইমাম মালিক|1832|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvPn_8D5bn86OTQ9WFRocGGj|
 |রিয়াদুস সলেহিন|1905|No||
 |বুলুগুল মারাম|1568|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvMx11DlgONaLej3IeyVTXig|
 |আল লু'লু ওয়াল মারজান|1906|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOELySX1jhuO2tlzpmnmrvq|
