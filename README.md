@@ -3,6 +3,12 @@
 
 |Books|Total_Hadiths/Surahs'|is_e2b_nmt?|Bangla_Audiobook/playlist_link| 
 |:---:|:---:|:---:|:---:|
+|তাফসীর ইবনে কাসীর|114(surah)|Yes|https://www.youtube.com/playlist?list=PLsHVxzxNumvPOOnpy0om5F8uSm66gEbwF| 
+|বাংলা সীরাহঃনবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবনী by  Dr. Yasir Qadhi|101 lectures|Yes|https://www.youtube.com/playlist?list=PLsHVxzxNumvPSbuqcL8oSWoxCPpZ2A3HT| 
+|তাফসীরে জাকারিয়া (Tafsir Abu Bakar Zakaria)|114(surah)|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOintrZMeFFubL5132E72Yl|
+|তাফসীরে আহসানুল বায়ান|114(surah)|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOT0a1ioq5fubqnDAjZ7PVj|
+|তাফসীরে জালালাইন (Tafsir AL Jalalain)|114(surah)|Yes|https://www.youtube.com/playlist?list=PLsHVxzxNumvNbYBLhNoAIxw7BaS3yY2XB|
+||||
 |সহিহ বুখারী|7563|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNIlU0TjaQaAUAWr9DuZedv| 
 |সহিহ মুসলিম|7500|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvOmpGmZKy38RvOYwAWKssDu| 
 |সুনানে আন-নাসায়ী|5758|No|https://www.youtube.com/playlist?list=PLsHVxzxNumvNoGSguLsp3ePTR4WOUhZvT|
