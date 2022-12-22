@@ -24,3 +24,9 @@ import os
 os.chdir('./tts-arabic-tacotron2')
 !git checkout e384a3b0229f11e66311680a5b4402218bd433fb # we need version 2
 os.chdir('../')
+
+then,
+
+1. for fastapi follow step by step guidelines provided in this directory -> https://github.com/mobassir94/comprehensive-bangla-tts/tree/main/Apps/screenshots_fastAPI
+
+2. for gradio app follow steps provided here in this directory -> https://github.com/mobassir94/comprehensive-bangla-tts/tree/main/Apps/screenshots_gradio
