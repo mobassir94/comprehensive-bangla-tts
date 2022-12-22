@@ -1,0 +1,26 @@
+first up,
+make sure you have these packages installed  
+
+1.! pip install -U pip
+2.! pip install TTS==0.8.0
+3.! pip install bnnumerizer==0.0.2
+4.! pip install bangla==0.0.2
+5.! pip install gdown==4.5.1
+6.! pip install bnunicodenormalizer==0.1.1
+7.! pip install PyArabic==0.6.15
+8.! pip install pydub
+9.! pip install Unidecode==1.3.6
+10.! pip install numpy
+11.!pip install pydload==1.0.9
+12.!pip install mishkal==0.4.1
+13.!pip install codernitydb3==0.6.0
+14.!pip install --upgrade --no-cache-dir gdown
+15.!git clone https://github.com/ARBML/klaam
+16.! git clone https://github.com/nipponjo/tts-arabic-tacotron2
+
+then run the code below from jupyter notebook or corresponding code in terminal 
+
+import os
+os.chdir('./tts-arabic-tacotron2')
+!git checkout e384a3b0229f11e66311680a5b4402218bd433fb # we need version 2
+os.chdir('../')
