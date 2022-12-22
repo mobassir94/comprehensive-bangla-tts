@@ -1,7 +1,7 @@
 # comprehensive-bangla-tts
 
 
-|Books|Total_Hadiths/Surahs'|is_e2b_nmt?|Bangla_Audiobook/playlist_link| 
+|Books|Total_Hadiths/Surahs'|is english to bangla Neural Machine Translated?|Bangla_Audiobook/playlist_link| 
 |:---:|:---:|:---:|:---:|
 |তাফসীর ইবনে কাসীর|114(surah)|Yes|https://www.youtube.com/playlist?list=PLsHVxzxNumvPOOnpy0om5F8uSm66gEbwF| 
 |বাংলা সীরাহঃনবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবনী by  Dr. Yasir Qadhi|101 lectures|Yes|https://www.youtube.com/playlist?list=PLsHVxzxNumvPSbuqcL8oSWoxCPpZ2A3HT| 
