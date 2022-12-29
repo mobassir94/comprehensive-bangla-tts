@@ -7,9 +7,9 @@ The main purpose of making Comprehensive Multilingual Speech synthesis was to re
 
 # Our Contributions 
 
-  * Collect/Scrape various important bangla-arabic or english-arabic hadith,tafsir and seerah books from the internet and translate english-arabic to bangla-arabic using powerful bangla neural machine translator. you will find our scrapper with comprehensive documentation here : https://github.com/mnansary/hadith-srcapper
+  * Collect/Scrape various important bangla-arabic or english-arabic hadith,tafsir and seerah books from the internet and translate english-arabic to bangla-arabic using powerful bangla neural machine translator. you will find our scraper with comprehensive documentation here : https://github.com/mnansary/hadith-srcapper
   
-  * To the best of our knowledge (from our extensive google search and research and extensive human validation) we’ve discovered that the Bangla Vits TTS (text to speech) system that we trained and used for reading various bangla tafsir / hadith is the highest performing State of the Art (SOTA) Bangla neural voice cloning system that’s ever released publicly for Bangla language for free and it beats past TTS systems like gtts,silero-tts,indic-tts by large margin in terms of quality.
+  * To the best of our knowledge (from our extensive google search and research and extensive human validation) we’ve discovered that the Bangla Vits TTS (text to speech) system that we trained and used for reading various bangla tafsir / hadith is the highest performing State of the Art (SOTA) Bangla neural voice cloning system till this date (Thursday, December 29, 2022) that’s ever released publicly for Bangla language for free and it beats past TTS systems like gtts,silero-tts,indic-tts by large margin in terms of quality.
   
   * First ever multilingual book reading pipeline that can read Bangla+Arabic code mixed books with ease.
   
@@ -23,7 +23,7 @@ The entire process may not be 100% accurate. English to Bengali translation may 
 # Training and inference
 
 we used fantastic coqui-ai🐸💬 - toolkit for bangla Text-to-Speech training with IITM dataset converted in ljspeech format. we've trained 4 models and they are : glowtts(male),glowtts(female),vits(male) and vits(female). glowtts didn't perform as well as expected because the coqui-ai used attached vocoder. in order to improve the glowtts performance one need to train spectrogram models and vocoder seperately and used a powerful vocoder instead like hifi gan 2. 
-vits male and female variants are our best model that we used for making most of the audiobooks. from this [Comprehensive_Bangla_Text_to_Speech_(TTS)](https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/Comprehensive_Bangla_Text_to_Speech_(TTS).ipynb) demo notebook you can see the sound quality of the vits model is almost as good as the training dataset which can be found here : https://www.kaggle.com/datasets/mobassir/comprehensive-bangla-tts that means e2e vits can clone human voice with high quality and it's attached vocoder is doing enough good job,one way to improve its performance could be to make robust G2P model for bangla and use phonemes.
+vits male and female variants are our best model that we used for making most of the audiobooks. from this [Comprehensive_Bangla_Text_to_Speech_(TTS)](https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/Comprehensive_Bangla_Text_to_Speech_(TTS).ipynb) demo notebook you can see the sound quality of the vits model is almost as good as the training dataset which can be found here : https://www.kaggle.com/datasets/mobassir/comprehensive-bangla-tts that means End to End  vits can clone human voice with high quality and it's attached vocoder is doing enough good job,one way to improve its performance could be to make robust G2P model for bangla and use phonemes during training.
 
 each directory in this repo contains .txt file describing what that particular folders codes are doing.
 
