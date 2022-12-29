@@ -30,3 +30,5 @@ then,
 1. for fastapi follow step by step guidelines provided in this directory -> https://github.com/mobassir94/comprehensive-bangla-tts/tree/main/Apps/screenshots_fastAPI
 
 2. for gradio app follow steps provided here in this directory -> https://github.com/mobassir94/comprehensive-bangla-tts/tree/main/Apps/screenshots_gradio
+
+video tutorial is available [here](https://www.youtube.com/watch?v=8EP2hzrrjMw)
