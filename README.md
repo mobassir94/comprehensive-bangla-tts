@@ -1,4 +1,9 @@
 
+# *****UPDATE*****
+we are delighted to let you know that the bangla tts work of this repo is now available in famous COQUI🐸TTS(Text-to-Speech),please check this -> https://github.com/coqui-ai/TTS/releases and this colab demo as well -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/Bangla_text_to_speech_(TTS).ipynb 
+
+however to use the multilingual tts pipeline you still need codebase of this repository,thanks
+
 # Mission and Vision
 
 With infinite kindness,mercy and blessings of Allah, we are launching  an open source Islamic book reader system today for everyone that knows/speaks Bangla and arabic. Even though spoken by more than 210 million people as a first or second language,Bangla is still a low resource language. It is also a very difficult language because of its many sounds and spelling rules. Additionally, the script is vastly different from English and other Latin Languages.
