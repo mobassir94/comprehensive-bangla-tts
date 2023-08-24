@@ -1,5 +1,5 @@
 
-# *****UPDATE-2 (8/24/2023) *****
+# *****UPDATE-2 (8/24/2023)*****
 
 trained bangla ViTs model with phoneme.
 training notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_trainer.ipynb
