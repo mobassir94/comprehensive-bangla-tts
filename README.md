@@ -1,5 +1,13 @@
 
-# *****UPDATE*****
+# *****UPDATE-2 (8/24/2023) *****
+
+trained bangla ViTs model with phoneme.
+training notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_trainer.ipynb
+test/inference notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_inference.ipynb
+
+All weight files -> https://www.kaggle.com/datasets/mobassir/comprehensive-bangla-tts
+
+# *****UPDATE-1*****
 we are delighted to let you know that the bangla tts work of this repo is now available in famous COQUI🐸TTS(Text-to-Speech),please check this -> https://github.com/coqui-ai/TTS/releases and this colab demo as well -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/Bangla_text_to_speech_(TTS).ipynb 
 
 however to use the multilingual tts pipeline you still need codebase of this repository,thanks
