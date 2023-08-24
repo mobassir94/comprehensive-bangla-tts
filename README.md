@@ -2,8 +2,10 @@
 # *****UPDATE-2 (8/24/2023)*****
 
 trained bangla ViTs model with phoneme.
-training notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_trainer.ipynb
-test/inference notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_inference.ipynb
+
+1. training notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_trainer.ipynb
+   
+2. test/inference notebook -> https://github.com/mobassir94/comprehensive-bangla-tts/blob/main/bn_vits_tts/Bangla_phoneme_ViTS_inference.ipynb
 
 All weight files -> https://www.kaggle.com/datasets/mobassir/comprehensive-bangla-tts
 
